@@ -23,6 +23,7 @@ body {
 
 }
 #Poiseuille-button{
+    border-radius: 5vh;
     border: 1.5px solid yellowgreen;
     margin-right: 2.5vw;
     padding: 2.5vh 4vw;
@@ -31,6 +32,7 @@ body {
     cursor:pointer;
 }
 #Surface-button{
+    border-radius: 5vh;
     border: 1.5px solid yellowgreen;
     margin-left: 2.5vw;
     padding: 2.5vh 4vw;
