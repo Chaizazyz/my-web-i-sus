@@ -14,6 +14,7 @@ body {
 }
 
 #text-main{
+    font-size: 500%;
     text-align: center;
     color: rgb(114, 244, 88);
 }
