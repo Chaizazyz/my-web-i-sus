@@ -7,30 +7,32 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin: 0;
     margin: auto;
     border: 1px solid rgb(255, 255, 255);
     border-collapse: collapse;
 }
 
 #text-main{
-
+    font-size: 5vmax;
     text-align: center;
     color: rgb(114, 244, 88);
 }
 #button{
     display: flex;
     justify-content: space-around;
+
 }
 #Poiseuille-button{
-    margin-right: 15px;
-    padding: 8px 30px;
+    margin-right: 2.5vw;
+    padding: 2.5vh 4vw;
     background-color: rgb(238, 57, 57);
     color: aliceblue;
+    cursor:pointer;
 }
 #Surface-button{
-    margin-left: 15px;
-    padding: 8px 30px;
+    margin-left: 2.5vw;
+    padding: 2.5vh 4vw;
     color: aqua;
     background-color: blue;
+    cursor:pointer;
 }
